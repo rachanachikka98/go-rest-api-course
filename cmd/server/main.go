@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	transportHTTP "github.com/rachanachikka98/go-rest-api-course/internal/transport/http"
+	transportHTTP "github.com/rachanachikka98/go-rest-api-course/internal/transport"
 )
 
 type App struct{}
